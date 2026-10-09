@@ -1,3 +1,5 @@
+> Status kopii: kod gry zapisany. Folder gra/assets wymaga jeszcze przesłania obrazów i filmów z pełnego ZIP projektu; kody QR również oczekują na przesłanie.
+
 # Halloweenowa gra Jagody
 
 Gra urodzinowa z 13 duszkami zbieranymi przez kody QR. Każdy duszek ma animację, awatar i opis. Album zapisuje się lokalnie w przeglądarce uczestnika.
