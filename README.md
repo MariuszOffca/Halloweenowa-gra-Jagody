@@ -1,4 +1,4 @@
-> Status kopii: kod gry zapisany. Folder gra/assets wymaga jeszcze przesłania obrazów i filmów z pełnego ZIP projektu; kody QR również oczekują na przesłanie.
+> Status kopii: kod gry oraz wszystkie 32 obrazy i filmy są zapisane. Kody QR oczekują jeszcze na dodanie do folderu kody-qr.
 
 # Halloweenowa gra Jagody
 
@@ -11,7 +11,7 @@ Strona: https://jagoda-duszki-halloween.shepard81.chatgpt.site/
 - `gra/style.css` - wygląd strony.
 - `gra/game.js` - postacie, opisy, mechanika i zapisywanie kolekcji.
 - `gra/assets/` - filmy oraz obrazy.
-- `kody-qr/` - 14 kodów: strona główna oraz 13 duszków.
+- `kody-qr/` - planowane miejsce na 14 kodów: strona główna oraz 13 duszków.
 
 ## Uruchomienie
 W folderze `gra` wykonaj `python -m http.server 8000`. Otwórz http://localhost:8000/ . Tryb próbny: http://localhost:8000/?test=1 .
